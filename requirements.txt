@@ -1,0 +1,13 @@
+<<<<<<< HEAD
+fastapi
+uvicorn
+tensorflow
+pillow
+python-multipart
+=======
+fastapi
+uvicorn
+tensorflow
+pillow
+python-multipart
+>>>>>>> 77a00d11410215a871115d78723c3d7b5cf487b4
